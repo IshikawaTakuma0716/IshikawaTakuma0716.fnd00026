@@ -6,7 +6,9 @@
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-
+  <header>
+    <h1>石川拓磨</h1>
+  </header>
 
 </body>
 </html>
